@@ -1,0 +1,12 @@
+{
+  "name": "A cat on moon in Astronaut's Suit1",
+  "description": "A cat wearing Astronaut's Suit landed on Moon",
+  "image": "https://tan-working-reindeer-49.mypinata.cloud/ipfs/QmQA4d97fSFYsSZFCkpCcK9mmKHDsJKUgL12nEbRYFqA5G/4.jpeg"
+,
+  "attributes": [
+    {
+      "trait_type": "prompt description",
+      "value": "A cat landed on Moon wearing Astronaut's Suit"
+    }
+  ]
+}   

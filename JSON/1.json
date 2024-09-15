@@ -1,0 +1,12 @@
+{
+  "name": "A robot doing Surgery in 2060 AD1",
+  "description": "A Robot doing surgery in operation theatre",
+  "image": "https://tan-working-reindeer-49.mypinata.cloud/ipfs/QmQA4d97fSFYsSZFCkpCcK9mmKHDsJKUgL12nEbRYFqA5G/1.jpeg"
+,
+  "attributes": [
+    {
+      "trait_type": "prompt description",
+      "value": "create an image of robot doing surgery"
+    }
+  ]
+}
