@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # MyContract NFT Project
 
 This repository contains the necessary scripts and contracts to deploy, mint, transfer, and check balances for an ERC-721 compliant NFT contract named `MyContract`. The project utilizes the Hardhat framework and Ethers.js to interact with the Ethereum blockchain, allowing you to easily create and manage your NFT collection.
