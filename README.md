@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MyContract NFT Project
 
@@ -115,3 +116,6 @@ Special thanks to [ChatGPT](https://www.openai.com/chatgpt) for providing valuab
 ## License
 
 This project is licensed under the MIT [License](/LICENSE.txt).
+=======
+# Polygon-Proof-Of-Stake-M1
+>>>>>>> d601cf54016d873047daf250274dfa8376c99ea6
