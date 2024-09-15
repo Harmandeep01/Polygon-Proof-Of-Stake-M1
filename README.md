@@ -114,8 +114,7 @@ Once you've successfully transferred your NFTs using the `transfer.js` script, y
 Special thanks to [ChatGPT](https://www.openai.com/chatgpt) for providing valuable assistance and guidance throughout the development of this blockchain project. The insights and support helped shape and refine key aspects of the project.
 
 ## License
-
 This project is licensed under the MIT [License](/LICENSE.txt).
-=======
-# Polygon-Proof-Of-Stake-M1
->>>>>>> d601cf54016d873047daf250274dfa8376c99ea6
+
+
+
